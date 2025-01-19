@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nicolasrenovado12
+- 👋 Hi, I’m Nicolas
 - 👀 I’m interested in Backend and database
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
